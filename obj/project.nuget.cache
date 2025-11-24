@@ -1,0 +1,53 @@
+{
+  "version": 2,
+  "dgSpecHash": "VcQwOgOsV5w=",
+  "success": false,
+  "projectFilePath": "c:\\Users\\3p-Jumukoro\\Downloads\\funky_files\\c_sharp\\LinqCompleteProject\\LinqCompleteProject.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1100",
+      "level": "Error",
+      "message": "Unable to resolve 'Microsoft.NETCore.App.Ref (= 8.0.22)' for 'net8.0'.",
+      "projectPath": "c:\\Users\\3p-Jumukoro\\Downloads\\funky_files\\c_sharp\\LinqCompleteProject\\LinqCompleteProject.csproj",
+      "filePath": "c:\\Users\\3p-Jumukoro\\Downloads\\funky_files\\c_sharp\\LinqCompleteProject\\LinqCompleteProject.csproj",
+      "libraryId": "Microsoft.NETCore.App.Ref",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    },
+    {
+      "code": "NU1100",
+      "level": "Error",
+      "message": "Unable to resolve 'Microsoft.WindowsDesktop.App.Ref (= 8.0.22)' for 'net8.0'.",
+      "projectPath": "c:\\Users\\3p-Jumukoro\\Downloads\\funky_files\\c_sharp\\LinqCompleteProject\\LinqCompleteProject.csproj",
+      "filePath": "c:\\Users\\3p-Jumukoro\\Downloads\\funky_files\\c_sharp\\LinqCompleteProject\\LinqCompleteProject.csproj",
+      "libraryId": "Microsoft.WindowsDesktop.App.Ref",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    },
+    {
+      "code": "NU1100",
+      "level": "Error",
+      "message": "Unable to resolve 'Microsoft.AspNetCore.App.Ref (= 8.0.22)' for 'net8.0'.",
+      "projectPath": "c:\\Users\\3p-Jumukoro\\Downloads\\funky_files\\c_sharp\\LinqCompleteProject\\LinqCompleteProject.csproj",
+      "filePath": "c:\\Users\\3p-Jumukoro\\Downloads\\funky_files\\c_sharp\\LinqCompleteProject\\LinqCompleteProject.csproj",
+      "libraryId": "Microsoft.AspNetCore.App.Ref",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    },
+    {
+      "code": "NU1100",
+      "level": "Error",
+      "message": "Unable to resolve 'Microsoft.NETCore.App.Host.win-x64 (= 8.0.22)' for 'net8.0'.",
+      "projectPath": "c:\\Users\\3p-Jumukoro\\Downloads\\funky_files\\c_sharp\\LinqCompleteProject\\LinqCompleteProject.csproj",
+      "filePath": "c:\\Users\\3p-Jumukoro\\Downloads\\funky_files\\c_sharp\\LinqCompleteProject\\LinqCompleteProject.csproj",
+      "libraryId": "Microsoft.NETCore.App.Host.win-x64",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    }
+  ]
+}
