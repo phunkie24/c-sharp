@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\3p-Jumukoro\\Downloads\\funky_files\\c_sharp\\LinqCompleteProject\\LinqCompleteProject.csproj",
+      "projectUniqueName": "C:\\Users\\3p-Jumukoro\\Downloads\\funky_files\\c_sharp\\LinqCompleteProject\\LinqCompleteProject.csproj",
       "projectName": "LinqCompleteProject",
-      "projectPath": "c:\\Users\\3p-Jumukoro\\Downloads\\funky_files\\c_sharp\\LinqCompleteProject\\LinqCompleteProject.csproj",
+      "projectPath": "C:\\Users\\3p-Jumukoro\\Downloads\\funky_files\\c_sharp\\LinqCompleteProject\\LinqCompleteProject.csproj",
       "packagesPath": "C:\\Users\\3p-Jumukoro\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\3p-Jumukoro\\Downloads\\funky_files\\c_sharp\\LinqCompleteProject\\obj\\",
+      "outputPath": "C:\\Users\\3p-Jumukoro\\Downloads\\funky_files\\c_sharp\\LinqCompleteProject\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\3p-Jumukoro\\AppData\\Roaming\\NuGet\\NuGet.Config"
