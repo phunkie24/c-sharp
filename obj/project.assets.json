@@ -86,6 +86,12 @@
   },
   "logs": [
     {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Problem reading the cache file C:\\Users\\3p-Jumukoro\\Downloads\\funky_files\\c_sharp\\LinqCompleteProject\\obj\\project.nuget.cache : '<' is an invalid start of a property name. Expected a '\"'. Path: $ | LineNumber: 2 | BytePositionInLine: 0."
+    },
+    {
       "code": "NU1100",
       "level": "Error",
       "message": "Unable to resolve 'Microsoft.NETCore.App.Ref (= 8.0.22)' for 'net8.0'.",
